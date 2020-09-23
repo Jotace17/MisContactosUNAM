@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nombrecontacto">33dp</dimen>
+    <dimen name="datoscontacto">20dp</dimen>
+    <dimen name="tamañoiconos">25dp</dimen>
+    <dimen name="tamañoformulario">20dp</dimen>
+
+</resources>
